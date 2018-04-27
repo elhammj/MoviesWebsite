@@ -1,8 +1,8 @@
 import webbrowser
 import os
 import re
-
-
+# It is a python class that create a DOM object dynamically in fresh_tomatoes.html
+# It is used by entertaiment_center.py to open a page that has all movies
 # Styles and scripting for the page
 main_page_head = '''
 <!DOCTYPE html>
